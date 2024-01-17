@@ -54,19 +54,36 @@ Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. I
 
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 ### Azure blob storage
-![20](https://github.com/vishwanathamganesh/shopbag/assets/84628376/4beaea8e-8c07-4da4-96c3-8879b6238ce6)
+![05](https://github.com/vishwanathamganesh/shopbag/assets/84628376/af6febd6-23b9-48dc-b581-009d5d94f625)
 
 ### Azure Backup Service
+![20](https://github.com/vishwanathamganesh/shopbag/assets/84628376/4beaea8e-8c07-4da4-96c3-8879b6238ce6)
+
 Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
 ### Welcome to Language Studio
+![09](https://github.com/vishwanathamganesh/shopbag/assets/84628376/c196ce9a-a538-4573-b149-aca6eff64536)
+![10](https://github.com/vishwanathamganesh/shopbag/assets/84628376/5d05408f-7c7e-4ee0-996d-b93e3fd4c721)
+![07](https://github.com/vishwanathamganesh/shopbag/assets/84628376/95638eda-ed6d-4fad-85bf-90923ea71f7d)
+![08](https://github.com/vishwanathamganesh/shopbag/assets/84628376/f71ed3be-211d-44d0-b9ce-9bb5a7f2bc6a)
+
 ### Working Live Project Display
 ## Home Page
+![16](https://github.com/vishwanathamganesh/shopbag/assets/84628376/560b7e99-1227-488b-a018-e6c2ca029239)
 ### Men's Wear
+![18](https://github.com/vishwanathamganesh/shopbag/assets/84628376/2c6cce6c-3196-4464-9621-1c6981357de0)
+
 ### Azure ChatBot
+![11](https://github.com/vishwanathamganesh/shopbag/assets/84628376/a0b0607f-1b98-41e6-abff-8e630361abf7)
+![12](https://github.com/vishwanathamganesh/shopbag/assets/84628376/a61fc29a-7e70-43e3-9533-d2a1b98d20aa)
+![13](https://github.com/vishwanathamganesh/shopbag/assets/84628376/576b48da-12f6-4d6b-a70b-f70c135ad12c)
+![14](https://github.com/vishwanathamganesh/skills-introduction-to-github/assets/84628376/eb7fde03-e452-40d0-8d3a-4d7bfa936ffb)
+
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 Discription Here I am attaching the final working website's screenshot for the reference
 
 ### Resource Visualizer
+![19](https://github.com/vishwanathamganesh/shopbag/assets/84628376/0c5fdb7d-36d8-4e8c-8848-291bde6259fa)
+
 ### Final Project Statement
 The goal is to deliver a polished static website that not only serves as an online platform for the Ecommerce Website Online Shopping but also engages users with an aesthetically pleasing design and seamless navigation. The website should be informative, inspiring, and encourage users to explore various culinary skills through well-organized content.
 
