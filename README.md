@@ -46,6 +46,10 @@ Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. I
 ![0](https://github.com/vishwanathamganesh/shopbag/assets/84628376/c980b1f2-207d-4ac8-a436-69b7e6d503ca)
 
 ### Azure Static Website
+![01](https://github.com/vishwanathamganesh/shopbag/assets/84628376/cfeeed8c-5cd6-4caa-9cc1-3932d946634a)
+![02](https://github.com/vishwanathamganesh/shopbag/assets/84628376/de3f3d18-6859-4ea5-b8ee-74b52bacbbd0)
+![03](https://github.com/vishwanathamganesh/shopbag/assets/84628376/bae86742-aac8-4f8a-8e97-9350d3b0b64c)
+
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 ### Azure blob storage
 ### Azure Backup Service
