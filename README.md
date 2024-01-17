@@ -1,75 +1,62 @@
-<header>
+### Ecommerce website
+A platform to know Online shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a website
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+### Roles/Responsibilities
+1.V.Ganesh Kumar-Frontend and AI Services Deployment
 
-# Introduction to GitHub
+2.B.Meghavardhan-Frontend development,Content Collection,Debugging
 
-_Get started using GitHub in less than an hour._
+3.N.Bhargava raju-Azure AI Services
 
-</header>
+### Project Details
+Project Demo URL :https://bag2.z13.web.core.windows.net/
+Demo Video URL : https://youtu.be/s2MbwYKJaro
+Github Repository URL :https://github.com/vishwanathamganesh/shopbag.git
+Industry : Lifestyle
+### Azure Services Used
+1.Azure Bolb storage
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+2.Storage Account
 
-## Step 1: Create a branch
+3.Azure Backup Service
 
-_Welcome to "Introduction to GitHub"! :wave:_
+### Technologies Used
+1.HTML5
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+2.CSS 3
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+3.Bootstrap 5
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+4.Azure portal
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+### Problem Statement
+An online clothing store can solve various problems for both consumers and business owners, making it a convenient and beneficial platform. Here are some common problems that an online clothing store can address "Time-Saving:" "Size and Availability Issues" "Returns and Refunds"
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+### Project Decription
+"ShopBag" is an online clothing store that offers a diverse range of fashion products for men, women, and children. Shoppers can browse, select, and purchase clothing and accessories easily through a user-friendly website. The project focuses on providing a secure and convenient shopping experience, personalized recommendations, and efficient order management. With a responsive design and a strong technology stack, "ShopBag" aims to cater to the needs of fashion-conscious customers while ensuring data security and privacy.
 
-![profile-readme-example](/images/profile-readme-example.png)
+### Core Azure Services
+Azure Storage Account: Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.
 
-### :keyboard: Activity: Your first branch
+### Azure Backup Service
+Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+### Azure AI Service
+## ScreenShots
+### Azure Static Website
+Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
+### Azure blob storage
+### Azure Backup Service
+Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
+### Welcome to Language Studio
+### Working Live Project Display
+## Home Page
+### Men's Wear
+### Azure ChatBot
+The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+Discription Here I am attaching the final working website's screenshot for the reference
 
-   ![code-tab](/images/code-tab.png)
+### Resource Visualizer
+### Final Project Statement
+The goal is to deliver a polished static website that not only serves as an online platform for the Ecommerce Website Online Shopping but also engages users with an aesthetically pleasing design and seamless navigation. The website should be informative, inspiring, and encourage users to explore various culinary skills through well-organized content.
 
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
