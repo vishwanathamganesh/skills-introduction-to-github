@@ -69,6 +69,7 @@ Azure Backup Service in Microsoft Azure ensures data resilience with automated, 
 ### Working Live Project Display
 ## Home Page
 ![16](https://github.com/vishwanathamganesh/shopbag/assets/84628376/560b7e99-1227-488b-a018-e6c2ca029239)
+![17](https://github.com/vishwanathamganesh/shopbag/assets/84628376/1d3407c3-23b7-4d5a-b4df-68e22b8096ea)
 ### Men's Wear
 ![18](https://github.com/vishwanathamganesh/shopbag/assets/84628376/2c6cce6c-3196-4464-9621-1c6981357de0)
 
